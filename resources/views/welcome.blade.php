@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel- Pauline can edit here!!
                 </div>
 
                 <div class="links">
